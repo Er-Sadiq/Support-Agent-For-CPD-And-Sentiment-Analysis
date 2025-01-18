@@ -39,6 +39,11 @@ This project is a customer support agent designed to process data, resolve queri
 
 5. Ensure Docker is installed and running for containerized deployment.
 
+## Demo :
+
+![home](https://github.com/user-attachments/assets/b999701f-99bd-4038-86ba-204032bab454)
+
+
 ## Contribution
 
 Contributions are welcome! Fork the repository, submit issues, or open pull requests.
