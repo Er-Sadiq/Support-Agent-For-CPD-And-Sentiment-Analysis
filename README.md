@@ -43,6 +43,4 @@ This project is a customer support agent designed to process data, resolve queri
 
 Contributions are welcome! Fork the repository, submit issues, or open pull requests.
 
-## License
 
-This project is licensed under [Your Preferred License]. Check the LICENSE file for details.
